@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkairos_docs=globalThis.webpackChunkkairos_docs||[]).push([[8121],{68070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Kairos","permalink":"/blog/tags/kairos","description":"Posts about Kairos, an open-source, cloud-native, and immutable Linux distribution","count":36}]}')}}]);
