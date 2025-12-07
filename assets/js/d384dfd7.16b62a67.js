@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkairos_docs=globalThis.webpackChunkkairos_docs||[]).push([[605],{33314:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/kairos-docs/blog/page/4","page":4,"postsPerPage":10,"totalPages":4,"totalCount":36,"previousPage":"/kairos-docs/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

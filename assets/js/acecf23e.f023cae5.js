@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkairos_docs=globalThis.webpackChunkkairos_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/kairos-docs/blog","blogTitle":"Blog","authorsListPath":"/kairos-docs/blog/authors"}')}}]);
